@@ -1,2 +1,2 @@
-# Guide
-User Guide and Admin Guide
+# Initial page
+
