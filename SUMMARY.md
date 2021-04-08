@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Welcome Page](README.md)
+* [System Requirements](system-requirements.md)
 
