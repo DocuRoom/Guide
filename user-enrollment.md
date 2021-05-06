@@ -2,7 +2,7 @@
 
 ## Organization Admin create data room
 
-If you are Orgnaization Admin in DocuRoom, you are able to create **Data Room**.
+If you are Orgnaization Admin in **DocuRoom**, you are able to create **Data Room**.
 
 ![](.gitbook/assets/image%20%2821%29.png)
 

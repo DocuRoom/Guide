@@ -10,5 +10,5 @@
 * [Settings](settings.md)
 * [Preview documents](preview-documents.md)
 * [Organization Admin](organization-admin.md)
-* [Contact](contact.md)
+* [Help](help.md)
 
