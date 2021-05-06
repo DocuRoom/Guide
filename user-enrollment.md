@@ -1,16 +1,24 @@
 # User Enrollment
 
+## Organization Admin create data room
+
 If you are Orgnaization Admin in DocuRoom, you are able to create **Data Room**.
+
+![](.gitbook/assets/image%20%2821%29.png)
+
+## Invite the users to join the data room
 
 Your account will be default co-owner of the created **Data Room**. Then you can invite more users to join this **Data Room**.
 
 ![](.gitbook/assets/image%20%2820%29.png)
 
-After clikc **SEND INVITATION**, the system will send a email notification to specified email address.
+After clicking **SEND INVITATION**, the system will send a email notification to specified email address.
 
-If user does not recieve the email, please check the spam list or ask email provider to add **docuroom.com** as trusted email domain.
+If user does not receive the email, please check the spam list or ask email provider to add _**docuroom.com**_ as trusted email domain.
 
 ![](.gitbook/assets/image%20%285%29.png)
+
+## Register user
 
 Click the link and follow the instruction to register the user.
 
@@ -34,7 +42,7 @@ Enable **Two-Factor Authentication**
 
 ![](.gitbook/assets/image%20%282%29.png)
 
-Download 2FA app like Microsoft Authenticator, Google Authenticator, FreeOTP to scan the QRCode. You can get a 6 numbers code and then input into the text box to verify the 2FA App.
+Download 2FA app like **Microsoft Authenticator**, **Google Authenticator**, **FreeOTP** to scan the **QRCode**. You can get a 6 random code and input them into the text box to verify the 2FA App.
 
 ![](.gitbook/assets/image%20%2816%29.png)
 
