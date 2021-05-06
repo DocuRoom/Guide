@@ -4,7 +4,7 @@ If you are Orgnaization Admin in DocuRoom, you are able to create **Data Room**.
 
 Your account will be default co-owner of the created **Data Room**. Then you can invite more users to join this **Data Room**.
 
-![](.gitbook/assets/image%20%2818%29.png)
+![](.gitbook/assets/image%20%2820%29.png)
 
 After clikc **SEND INVITATION**, the system will send a email notification to specified email address.
 
