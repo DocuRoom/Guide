@@ -8,4 +8,6 @@
 * [Data Room Operation](data-room-operation.md)
 * [Members Management](members-management.md)
 * [Settings](settings.md)
+* [Preview documents](preview-documents.md)
+* [Organization Admin](organization-admin.md)
 
